@@ -2,3 +2,4 @@
 2. Hızlı Performans
 3. Karanlık Mod Desteği
 4. Çoklu Dil Seçeneği
+5. Konum Desteği

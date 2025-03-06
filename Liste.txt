@@ -1,4 +1,6 @@
-1. Kullanıcı Dostu Ara Yüz
+1. Karanlık Mod Desteği
 2. Hızlı Performans
-3. Çoklu Dil Seçeneği
+3. Kullanıcı Dostu Ara Yüz
 4. Konum Desteği
+
+

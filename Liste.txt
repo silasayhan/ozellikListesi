@@ -2,5 +2,5 @@
 2. Hızlı Performans
 3. Kullanıcı Dostu Ara Yüz
 4. Konum Desteği
-
+5. Dil Desteği
 
